@@ -28,8 +28,8 @@ My career aspirations lie in leadership roles, such as solutions software develo
 ## Professional Goals 🚀
 <br/>
 
-- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+- **Career Development:** Eager to leverage my strong technical skills in software development to build impactful tech solutions, and actively seeking opportunities to grow into leadership roles.
+- **Continuous Learning:** Fueling my growth as a developer by actively participating in hackathons and collaborating with talented peers to tackle new challenges and stay ahead of the curve. 📈
 
 ## Connect with Me 📬
 <br/>
@@ -37,3 +37,4 @@ My career aspirations lie in leadership roles, such as solutions software develo
 - 📫 [Email](mailto:lenoxnguyen2014@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/le-nguyen-506048125/)
 
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
