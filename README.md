@@ -12,14 +12,11 @@ My career aspirations lie in leadership roles, such as solutions software develo
 
 ## Technical Skills 🤓
 <br/>
-- **Languages:** JavaScript, Python, TypeScript, Ruby On Rails, Go
-- **Frameworks & Libraries:** React, Next.js, Vue, Node, GraphQL, RestAPI
-- **Tools & Platforms:** Github, Docker, Azure, AWS, Netlify, Vercel
-- **Data Science & AI:** New to machine learning, but familar to chatGPT and Germini
-- **Languages:** JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js, FastAPI
-- **Tools & Platforms:** GitHub, Docker, Azure, Vercel
-- **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
+- Languages: JavaScript, Python, TypeScript, Ruby On Rails, Go
+- Frameworks & Libraries:** React, Next.js, Vue, Node, GraphQL, RestAPI
+- Tools & Platforms:** Github, Docker, Azure, AWS, Netlify, Vercel
+- Data Science & AI:** New to machine learning, but familar to chatGPT and Germini
+
 
 #Key Projects
 <br/>
