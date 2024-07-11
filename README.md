@@ -19,10 +19,21 @@ My career aspirations lie in leadership roles, such as solutions software develo
 - **Data Science & AI:** New to machine learning, but familar to chatGPT and Germini
 
 
-#Key Projects
+## Key Projects
 <br/>
-Octopus Typing
+
+- **[Octopus Typing](https://github.com/RobXcore/Type-Octopus)** As a full stack, spcecializing in Frontend, I create a storybook library and make sure we can retrieve API from my teammate source code
 
 
+## Professional Goals 🚀
+<br/>
 
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+## Connect with Me 📬
+<br/>
+
+- 📫 [Email](mailto:lenoxnguyen2014@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/le-nguyen-506048125/)
 
