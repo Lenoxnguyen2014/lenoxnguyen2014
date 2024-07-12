@@ -1,5 +1,4 @@
-## Congrats !! You are the
-![](https://komarev.com/ghpvc/?username=lenoxnguyen2014) visiting my github
+## Congrats !! You are the **![](https://komarev.com/ghpvc/?username=lenoxnguyen2014)** visiting my github
 
 🙌 Hey there! I'm a full-stack developer who also freelances on the side.  Maybe it's just FOMO, but all these new tech trends keep me on my toes (gotta stay ahead of the curve, right?).  Check out my projects and see what I'm working on!
 
