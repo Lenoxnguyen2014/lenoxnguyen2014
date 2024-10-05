@@ -22,7 +22,7 @@ My career aspirations lie in leadership roles, such as solutions software develo
 ## Key Projects
 <br/>
 
-- **[Octopus Typing](https://github.com/RobXcore/Type-Octopus)** As a full stack, spcecializing in Frontend, I create a storybook library and make sure we can retrieve API from my teammate source code
+- **[Octopus Typing](https://github.com/lenoxnguyen/theNewBody)** I create a new application to help my friends track their diet better.
 
 
 ## Professional Goals 🚀
