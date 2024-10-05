@@ -22,7 +22,7 @@ My career aspirations lie in leadership roles, such as solutions software develo
 ## Key Projects
 <br/>
 
-- **[The New Body](https://github.com/lenoxnguyen/theNewBody)** I create a new application to help my friends track their diet better.
+- **[The New Body](https://github.com/Lenoxnguyen2014/TheNewBody)** I create a new application to help my friends track their diet better.
 
 
 ## Professional Goals 🚀
