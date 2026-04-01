@@ -2,13 +2,10 @@
 
 🙌 Hey there! I'm a full-stack developer who also freelances on the side.  Maybe it's just FOMO, but all these new tech trends keep me on my toes (gotta stay ahead of the curve, right?).  Check out my projects and see what I'm working on!
 
-## About Me
+## Current Me
 <br />
-Originally from Vietnam, I bring a collaborative and people-oriented approach to software development. Growing up in a supportive community instilled a strong work ethic and a passion for fostering positive connections. My educational background in Vancouver, Canada, further equipped me with the technical skills to excel in the field.
-
-I am a full-stack developer with a strong interest in leveraging technology to create meaningful solutions. My abilities extend beyond technical expertise, as I thrive in collaborative environments and possess excellent communication skills.
-
-My career aspirations lie in leadership roles, such as solutions software developer or director. Leading and managing teams to bring innovative ideas to life is a driving force for me.
+I worked as a full stack developer for 5 years. Some are freelance jobs, and some are at cooperates. Therefore, I am familiar with both frontend, backend, and some dev ops. Hovwever, in recent years, I am amazed at computer vission and robotics technology.
+I also would love to try to work as a developer relations. I love making conversations
 
 ## Technical Skills 🤓
 <br/>
