@@ -5,7 +5,7 @@
 ## Current Me
 <br />
 I worked as a full stack developer for 5 years. Some are freelance jobs, and some are at cooperates. Therefore, I am familiar with both frontend, backend, and some dev ops. Hovwever, in recent years, I am amazed at computer vission and robotics technology.
-I also would love to try to work as a developer relations. I love making conversations
+I also would love to try to work as a developer relations. I love making conversations. Those are what I am interested in. I hope we can connect and explore more ideas.
 
 ## Technical Skills 🤓
 <br/>
